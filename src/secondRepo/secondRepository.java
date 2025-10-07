@@ -1,7 +1,6 @@
 package secondRepo;
 
 public class secondRepository {
-
 	public static void main(String[] args) {
 	 String hungry= "yes";
 	 if(hungry == "yes") {
@@ -14,3 +13,4 @@ public class secondRepository {
 	}
 
 }
+
